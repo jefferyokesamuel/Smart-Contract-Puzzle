@@ -1,0 +1,180 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/Jeffery/Projects/Contract-Puzzles/contracts/Contract1.sol": {
+      "lastModificationDate": 1674570530899,
+      "contentHash": "2b8ede05dc455492d960fb4caf32ba89",
+      "sourceName": "contracts/Contract1.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game1"
+      ]
+    },
+    "/Users/Jeffery/Projects/Contract-Puzzles/contracts/Contract2.sol": {
+      "lastModificationDate": 1674773232396,
+      "contentHash": "89c215d0da8f6f1aec150ce402dc68fd",
+      "sourceName": "contracts/Contract2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game2"
+      ]
+    },
+    "/Users/Jeffery/Projects/Contract-Puzzles/contracts/Contract3.sol": {
+      "lastModificationDate": 1674774431172,
+      "contentHash": "b822c6e1254bb2faa0e3c9b9f827c49d",
+      "sourceName": "contracts/Contract3.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game3"
+      ]
+    },
+    "/Users/Jeffery/Projects/Contract-Puzzles/contracts/Contract4.sol": {
+      "lastModificationDate": 1674570530899,
+      "contentHash": "2ced2d36c168fd17a15c507e7e4f8cce",
+      "sourceName": "contracts/Contract4.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game4"
+      ]
+    },
+    "/Users/Jeffery/Projects/Contract-Puzzles/contracts/Contract5.sol": {
+      "lastModificationDate": 1674570530899,
+      "contentHash": "839cfcbbc60a02610c944de9ddf3fac8",
+      "sourceName": "contracts/Contract5.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Game5"
+      ]
+    }
+  }
+}
